@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>267</width>
-    <height>299</height>
+    <width>305</width>
+    <height>329</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,16 +20,16 @@
    <widget class="QLabel" name="title">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>20</y>
-      <width>181</width>
-      <height>83</height>
+      <x>20</x>
+      <y>10</y>
+      <width>201</width>
+      <height>71</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Microsoft YaHei UI</family>
-      <pointsize>16</pointsize>
+      <pointsize>15</pointsize>
       <underline>true</underline>
      </font>
     </property>
@@ -43,15 +43,15 @@
    <widget class="QLabel" name="result">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>80</y>
-      <width>181</width>
-      <height>81</height>
+      <x>10</x>
+      <y>70</y>
+      <width>231</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>13</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -72,7 +72,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>13</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -93,7 +93,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>13</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="styleSheet">
@@ -114,7 +114,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>18</pointsize>
+      <pointsize>20</pointsize>
      </font>
     </property>
     <property name="styleSheet">
